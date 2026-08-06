@@ -18,7 +18,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](www.linkedin.com/in/priyan1436eiaa/ghpvc/?username=yourusername&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 
