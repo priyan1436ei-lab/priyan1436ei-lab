@@ -164,8 +164,8 @@ Built a fully multi-tenant architecture from the ground up, with a focus on data
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🥇 Hackathon Winner | 1st place, University Hackathon 2024 |
+|-
+| 
 | 📜 Published Research | Co-authored paper at [Conference Name] |
 | ⭐ Open Source | 1000+ combined stars across repositories |
 | 🎓 Dean's List | Academic excellence, 4 consecutive semesters |
