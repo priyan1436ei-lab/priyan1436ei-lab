@@ -665,10 +665,10 @@ Urban Spice · OLMS
 
   ── SNAKE ANIMATION SETUP ──
   Create .github/workflows/snake.yml with:
-  ┌──────────────────────────────────────────────────────────┐
+   ┌──────────────────────────────────────────────────────────┐
   │ name: Generate Snake                                      │
   │ on:                                                       │
-  │   schedule: [{cron: "0 0 * * *"}]                        │
+  │   schedule: [{cron: "0 0 * * *"}]                         │
   │   workflow_dispatch:                                      │
   │ jobs:                                                     │
   │   generate:                                               │
@@ -676,9 +676,9 @@ Urban Spice · OLMS
   │     steps:                                                │
   │       - uses: Platane/snk/svg-only@v3                     │
   │         with:                                             │
-  │           github_user_token: ${{secrets.GITHUB_TOKEN}}   │
+  │           github_user_token: ${{secrets.GITHUB_TOKEN}}    │
   │           outputs: |                                      │
-  │             dist/github-snake.svg                        │
+  │             dist/github-snake.svg                         │
   │             dist/github-snake-dark.svg?palette=github-dark│
   │       - uses: crazy-max/ghaction-github-pages@v3          │
   │         with:                                             │
@@ -686,7 +686,7 @@ Urban Spice · OLMS
   │           build_dir: dist                                 │
   │         env:                                              │
   │           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}         │
-  └──────────────────────────────────────────────────────────┘
+   └──────────────────────────────────────────────────────────┘
 
   ── WAKATIME SETUP ──
   Sign up at wakatime.com → install VS Code extension
@@ -698,4 +698,4 @@ Urban Spice · OLMS
   ─────────────────────────────────────────────────────────────────────
 -->
 
-<!-- ✦ END OF PRIYAN'S MAX-LEVEL GITHUB README ✦ -->
+<!-- ✦ END OF PRIYAN'A MAX-LEVEL GITHUB README ✦ -->
