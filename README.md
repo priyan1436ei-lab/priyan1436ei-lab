@@ -1,701 +1,567 @@
-<!-- #################################################################### -->
-<!--          PRIYAN ✦ MAX-LEVEL GITHUB PROFILE README                    -->
-<!--          Every widget. Every trick. Zero compromise.                  -->
-<!-- #################################################################### -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗     █████╗ 
+     ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║    ██╔══██╗
+     ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║    ███████║
+     ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║    ██╔══██║
+     ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║    ██║  ██║
+     ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝
+     ════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                  HERO BANNER                      -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🎮 CINEMATIC BANNER SECTION 🎮                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,25:050A30,50:000C66,75:001F6B,100:03001C&height=280&section=header&text=P%20R%20I%20Y%20A%20N&fontSize=90&fontColor=00FFFF&fontAlignY=40&desc=⟨%20AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20UI%2FUX%20Architect%20⟩&descSize=20&descColor=A78BFA&descAlignY=62&stroke=00FFFF&strokeWidth=2&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,25:00ff41,50:00d4ff,75:bf00ff,100:ff0040&text=PRIYAN%20A&fontColor=00ff41&fontSize=90&fontAlignY=35&desc=⚡%20FULL-STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20GAMER%20⚡&descSize=20&descAlignY=55&descAlign=50&animation=fadeIn&stroke=00ff41&strokeWidth=2"/>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--               ANIMATED TYPING                     -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ANIMATED GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=%E2%9A%A1+Building+AI-Powered+Products...;%F0%9F%A4%96+Architecting+Intelligent+Android+Apps...;%F0%9F%8E%A8+Designing+Futuristic+UI%2FUX+Systems...;%F0%9F%94%A5+Shipping+Full+Stack+Experiences...;%F0%9F%9A%80+Pushing+the+Edge+of+Innovation..." />
-</a>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    ⌨️ ANIMATED TYPING TEXT ⌨️                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<br/><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%3E+Welcome+to+my+Digital+Fortress+%F0%9F%8F%B0;%3E+Building+the+Future+with+Code+%26+AI+%F0%9F%A4%96;%3E+Level+99+Developer+%7C+Always+Grinding+%F0%9F%8E%AE;%3E+Turning+Coffee+into+Neural+Networks+%E2%98%95%E2%9A%A1" alt="Typing SVG" /></a>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--               LIVE STAT BADGES                    -->
-<!-- ══════════════════════════════════════════════════ -->
+<br>
 
-[![](https://komarev.com/ghpvc/?username=priyan&style=for-the-badge&color=000C66&label=⟨+PROFILE+VIEWS+⟩&labelColor=00FFFF)](https://github.com/priyan)
-[![GitHub followers](https://img.shields.io/github/followers/priyan?style=for-the-badge&color=050A30&labelColor=A78BFA&label=FOLLOWERS)](https://github.com/priyan?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/priyan?style=for-the-badge&color=050A30&labelColor=F59E0B&label=TOTAL+STARS)](https://github.com/priyan)
+<!-- NEON STATUS BADGES -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=00ff41&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-bf00ff?style=for-the-badge&logo=openai&logoColor=bf00ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LEVEL-LEGENDARY-ff0040?style=for-the-badge&logo=levelsdotfyi&logoColor=ff0040&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/XP-∞-00d4ff?style=for-the-badge&logo=xp&logoColor=00d4ff&labelColor=0d1117" />
 
-<br/>
+<br><br>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--           ANIMATED HEADER SNAKE LINE              -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,50:000C66,100:03001C&height=3&section=header&animation=twinkling" width="100%"/>
+<!-- ANIMATED MATRIX-STYLE WAVE -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
-<br/>
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-<!-- #################################################################### -->
-<!--                       ABOUT ME                                       -->
-<!-- #################################################################### -->
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-
-<div>
-
-### `⟨ IDENTITY.json ⟩`
-
-```json
-{
-  "name"       : "Priyan",
-  "alias"      : "The AI Architect",
-  "role"       : [
-                   "AI Developer",
-                   "Full Stack Engineer",
-                   "UI/UX Designer"
-                 ],
-  "location"   : "Tamil Nadu, India 🇮🇳",
-  "college"    : "Prathyusha Engineering College",
-  "degree"     : "B.Tech Information Technology",
-  "batch"      : "2024 → 2028",
-  "status"     : "Building · Learning · Shipping 🚀",
-  "currently"  : "FinFam — AI Family Finance App",
-  "learning"   : ["MLOps", "Cloud Architecture", "AI Agents"],
-  "goal"       : "Frontend / React Developer Internship 🎯",
-  "open_to"    : ["Internships", "Collabs", "Hackathons"],
-  "fun_fact"   : "I turn coffee ☕ into intelligent software 🤖"
-}
-```
-
-</div>
-
-<br clear="right"/>
-
----
-
-<!-- #################################################################### -->
-<!--                     ANIMATED SKILL MATRIX                            -->
-<!-- #################################################################### -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    👤 ABOUT ME — PLAYER PROFILE 👤                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### `⟨ SKILL_MATRIX.exe — LOADING... ⟩`
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,ts,dart&theme=dark&perline=6" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,figma&theme=dark&perline=6" />
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,docker,github,gcp&theme=dark&perline=6" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,vscode,vercel,linux&theme=dark&perline=6" />
-
-</div>
-
----
-
-<!-- #################################################################### -->
-<!--               LANGUAGE & TOOL BADGES — FULL GRID                    -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ FULL TECH ARSENAL ⟩`
-
-<!-- ROW 1: LANGUAGES -->
-**◈ Languages**
-
-![Python](https://img.shields.io/badge/Python-03001C?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=000C66)
-![Kotlin](https://img.shields.io/badge/Kotlin-03001C?style=for-the-badge&logo=kotlin&logoColor=A78BFA&labelColor=000C66)
-![Java](https://img.shields.io/badge/Java-03001C?style=for-the-badge&logo=openjdk&logoColor=F59E0B&labelColor=000C66)
-![TypeScript](https://img.shields.io/badge/TypeScript-03001C?style=for-the-badge&logo=typescript&logoColor=00FFFF&labelColor=000C66)
-![JavaScript](https://img.shields.io/badge/JavaScript-03001C?style=for-the-badge&logo=javascript&logoColor=F59E0B&labelColor=000C66)
-![Dart](https://img.shields.io/badge/Dart-03001C?style=for-the-badge&logo=dart&logoColor=00FFFF&labelColor=000C66)
-
-<!-- ROW 2: FRONTEND -->
-**◈ Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-03001C?style=for-the-badge&logo=react&logoColor=00FFFF&labelColor=000C66)
-![Next.js](https://img.shields.io/badge/Next.js-03001C?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000C66)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-03001C?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF&labelColor=000C66)
-![Flutter](https://img.shields.io/badge/Flutter-03001C?style=for-the-badge&logo=flutter&logoColor=00FFFF&labelColor=000C66)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-03001C?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=000C66)
-
-<!-- ROW 3: BACKEND -->
-**◈ Backend & Cloud**
-
-![Firebase](https://img.shields.io/badge/Firebase-03001C?style=for-the-badge&logo=firebase&logoColor=F59E0B&labelColor=000C66)
-![Node.js](https://img.shields.io/badge/Node.js-03001C?style=for-the-badge&logo=node.js&logoColor=3DDC84&labelColor=000C66)
-![Express](https://img.shields.io/badge/Express-03001C?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000C66)
-![GCP](https://img.shields.io/badge/Google_Cloud-03001C?style=for-the-badge&logo=google-cloud&logoColor=00FFFF&labelColor=000C66)
-![Docker](https://img.shields.io/badge/Docker-03001C?style=for-the-badge&logo=docker&logoColor=00FFFF&labelColor=000C66)
-
-<!-- ROW 4: AI/ML -->
-**◈ AI · ML · Vision**
-
-![Gemini](https://img.shields.io/badge/Gemini_API-03001C?style=for-the-badge&logo=google&logoColor=A78BFA&labelColor=000C66)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-03001C?style=for-the-badge&logo=tensorflow&logoColor=F59E0B&labelColor=000C66)
-![OpenCV](https://img.shields.io/badge/OpenCV-03001C?style=for-the-badge&logo=opencv&logoColor=3DDC84&labelColor=000C66)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-03001C?style=for-the-badge&logo=python&logoColor=A78BFA&labelColor=000C66)
-![LangChain](https://img.shields.io/badge/LangChain-03001C?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=000C66)
-
-<!-- ROW 5: TOOLS -->
-**◈ Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-03001C?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000C66)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-03001C?style=for-the-badge&logo=github-actions&logoColor=FFFFFF&labelColor=000C66)
-![Figma](https://img.shields.io/badge/Figma-03001C?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000C66)
-![Android Studio](https://img.shields.io/badge/Android_Studio-03001C?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=000C66)
-![VS Code](https://img.shields.io/badge/VS_Code-03001C?style=for-the-badge&logo=visual-studio-code&logoColor=00FFFF&labelColor=000C66)
-![Vercel](https://img.shields.io/badge/Vercel-03001C?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000C66)
-
-</div>
-
----
-
-<!-- #################################################################### -->
-<!--                    FEATURED PROJECT CARDS                            -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ PROJECTS.db ⟩`
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 💰 FinFam
-> **AI-Powered Family Finance Intelligence**
-
 ```
-STATUS  ► ACTIVE BUILD 🔥
-STACK   ► Flutter · Firebase · Gemini API
-THEME   ► Glassmorphism · Navy · Teal
-TYPE    ► Android + AI
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║    ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗                        ║
+║    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗                       ║
+║    ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝                       ║
+║    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗                       ║
+║    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║                       ║
+║    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝                       ║
+║                  P R O F I L E    L O A D E D                              ║
+║                                                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-AI-driven household budget intelligence. Gemini API for natural language finance insights. Deterministic math + LLM interpretation. Real-time Firebase sync across family members.
-
-**Core Features:**
-- 🧠 AI Budget Advisor (Gemini)
-- 📊 Smart Savings Optimizer
-- 👨‍👩‍👧 Multi-member Family Sync
-- 💎 Glassmorphism Premium UI
-
-![Flutter](https://img.shields.io/badge/Flutter-03001C?style=flat-square&logo=flutter&logoColor=00FFFF)
-![Gemini](https://img.shields.io/badge/Gemini-03001C?style=flat-square&logo=google&logoColor=A78BFA)
-![Firebase](https://img.shields.io/badge/Firebase-03001C?style=flat-square&logo=firebase&logoColor=F59E0B)
-
-[![View Repo](https://img.shields.io/badge/⭐_GitHub-000C66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyan)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 RoboHive X
-> **Autonomous Robotic Intelligence System**
-
-```
-STATUS  ► HACKATHON BUILD ⚡
-STACK   ► Python · YOLOv8 · NVIDIA Jetson
-THEME   ► Dark Futuristic · MSME Submission
-TYPE    ► Robotics + AI Vision
-```
-
-One-shot imitation learning robotic co-worker. NVIDIA Jetson Orin Nano powered. YOLOv8 real-time object detection for factory automation. Self-learning pick-and-place system.
-
-**Core Features:**
-- 👁 YOLOv8 Vision Pipeline
-- 🦾 One-Shot Imitation Learning
-- ⚙️ Factory Floor Intelligence
-- 📡 Real-time Flask API
-
-![Python](https://img.shields.io/badge/Python-03001C?style=flat-square&logo=python&logoColor=00FFFF)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-03001C?style=flat-square&logo=python&logoColor=A78BFA)
-![NVIDIA](https://img.shields.io/badge/Jetson-03001C?style=flat-square&logo=nvidia&logoColor=76B900)
-
-[![View Repo](https://img.shields.io/badge/⭐_GitHub-000C66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyan)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🍔 CloudBites
-> **Cloud-Based Food Delivery Platform**
-
-```
-STATUS  ► SHIPPED ✅
-STACK   ► React · Node.js · Firebase
-THEME   ► Modern SaaS · Full Stack
-TYPE    ► Web App · 3 User Roles
-```
-
-Complete food delivery ecosystem. Customer ordering, Restaurant admin dashboard, Delivery agent tracking — all in one React app with real-time Firebase backend.
-
-**Core Features:**
-- 🛒 Customer Order Flow
-- 🍳 Restaurant Admin Panel
-- 🚴 Live Delivery Tracking
-- 🔥 Firebase Real-time DB
-
-![React](https://img.shields.io/badge/React-03001C?style=flat-square&logo=react&logoColor=00FFFF)
-![Node.js](https://img.shields.io/badge/Node.js-03001C?style=flat-square&logo=node.js&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-03001C?style=flat-square&logo=firebase&logoColor=F59E0B)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Demo-00FFFF?style=for-the-badge&logoColor=black)](https://github.com/priyan)
-[![View Repo](https://img.shields.io/badge/⭐_GitHub-000C66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyan)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 AgriShield AI
-> **Crop Disease Detection via Computer Vision**
-
-```
-STATUS  ► SHIPPED ✅
-STACK   ► Python · YOLOv8 · Flask
-THEME   ► AI for Good · AgriTech
-TYPE    ► AI/ML · Vision API
-```
-
-Real-time crop disease detection empowering farmers with instant AI diagnosis. YOLOv8 trained on crop disease datasets. REST API via Flask for mobile integration.
-
-**Core Features:**
-- 🔍 Real-time Disease Detection
-- 🌿 Multi-crop Support
-- 📱 Mobile API Ready
-- 📈 Confidence Score Output
-
-![Python](https://img.shields.io/badge/Python-03001C?style=flat-square&logo=python&logoColor=00FFFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-03001C?style=flat-square&logo=tensorflow&logoColor=F59E0B)
-![OpenCV](https://img.shields.io/badge/OpenCV-03001C?style=flat-square&logo=opencv&logoColor=3DDC84)
-
-[![View Repo](https://img.shields.io/badge/⭐_GitHub-000C66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyan)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤿 HydroSweep
-> **Autonomous Hexapod Drainage Rover**
-
-```
-STATUS  ► CONCEPT BUILD 🧪
-STACK   ► Python · YOLOv8 · Flask · ROS
-THEME   ► Robotics · Autonomous Navigation
-TYPE    ► Hardware + AI
-```
-
-47-component autonomous hexapod designed for drainage system inspection. YOLOv8 obstacle detection, Flask telemetry API, real-time sensor fusion for underground navigation.
-
-![Python](https://img.shields.io/badge/Python-03001C?style=flat-square&logo=python&logoColor=00FFFF)
-![Flask](https://img.shields.io/badge/Flask-03001C?style=flat-square&logo=flask&logoColor=FFFFFF)
-
-[![View Repo](https://img.shields.io/badge/⭐_GitHub-000C66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyan)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎮 GoCloud
-> **Cloud Gaming Platform UI/UX**
-
-```
-STATUS  ► DESIGN COMPLETE 🎨
-STACK   ► Figma · UI/UX · Glassmorphism
-THEME   ► Futuristic · Gaming Dark UI
-TYPE    ► Case Study · Design
-```
-
-Full UI/UX case study for a cloud gaming platform. Glassmorphism card components, neon accent system, onboarding flows, game browser, and subscription pages — Figma to handoff.
-
-![Figma](https://img.shields.io/badge/Figma-03001C?style=flat-square&logo=figma&logoColor=F24E1E)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-03001C?style=flat-square&logo=adobe-xd&logoColor=A78BFA)
-
-[![Preview](https://img.shields.io/badge/🔗_Preview-00FFFF?style=for-the-badge)](https://github.com/priyan)
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- #################################################################### -->
-<!--                      GITHUB ANALYTICS                                -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ GITHUB_ANALYTICS.live ⟩`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=00FFFF&icon_color=A78BFA&text_color=8892B0&ring_color=A78BFA&border_radius=10" height="195" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=00FFFF&text_color=8892B0&border_radius=10" height="195" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=priyan&theme=tokyonight-duo&hide_border=true&background=03001C&stroke=00FFFF&ring=A78BFA&fire=F59E0B&currStreakLabel=00FFFF&sideLabels=A78BFA&dates=8892B0&border_radius=10" height="195" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyan&theme=tokyo-night&bg_color=03001C&color=00FFFF&line=A78BFA&point=F59E0B&area=true&area_color=000C66&hide_border=true)](https://github.com/priyan)
-
-<br/>
-
-<!-- TROPHIES -->
-### `⟨ TROPHIES ⟩`
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=priyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/priyan)
-
-<br/>
-
-<!-- SNAKE -->
-### `⟨ CONTRIBUTION SNAKE ⟩`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyan/priyan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyan/priyan/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/priyan/priyan/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<!-- #################################################################### -->
-<!--                     3D SKILL UNIVERSE                                -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ 3D SKILL COSMOS ⟩`
-
-</div>
-
-```
-                                                          
-   ✦ ✦ ✦ ✦ ✦ ✦ ✦   SKILL UNIVERSE   ✦ ✦ ✦ ✦ ✦ ✦ ✦      
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │          🪐  AI / MACHINE LEARNING                  │
-  │        ┌──────────────────────────────┐             │
-  │        │  Gemini API  ████████████ 90%│             │
-  │        │  YOLOv8      ████████░░░░ 70%│             │
-  │        │  TensorFlow  ██████░░░░░░ 60%│             │
-  │        │  LangChain   █████░░░░░░░ 55%│             │
-  │        │  OpenCV      ████████░░░░ 70%│             │
-  │        └──────────────────────────────┘             │
-  │                                                     │
-  │          📱  ANDROID / MOBILE                       │
-  │        ┌──────────────────────────────┐             │
-  │        │  Kotlin          ████████ 75%│             │
-  │        │  Jetpack Compose ███████░ 65%│             │
-  │        │  Flutter         ██████░░ 60%│             │
-  │        │  Material 3      ████████ 78%│             │
-  │        └──────────────────────────────┘             │
-  │                                                     │
-  │          ⚛️  FRONTEND / WEB                         │
-  │        ┌──────────────────────────────┐             │
-  │        │  React.js    ████████████ 88%│             │
-  │        │  TypeScript  ██████████░░ 80%│             │
-  │        │  Next.js     ████████░░░░ 70%│             │
-  │        │  Tailwind    ████████████ 90%│             │
-  │        └──────────────────────────────┘             │
-  │                                                     │
-  │          ☁️  CLOUD / BACKEND                        │
-  │        ┌──────────────────────────────┐             │
-  │        │  Firebase  ████████████ 85%  │             │
-  │        │  Node.js   ████████░░░░ 72%  │             │
-  │        │  Docker    █████░░░░░░░ 50%  │             │
-  │        │  GCP       ████░░░░░░░░ 45%  │             │
-  │        └──────────────────────────────┘             │
-  │                                                     │
-  │          🎨  UI/UX DESIGN                           │
-  │        ┌──────────────────────────────┐             │
-  │        │  Figma         ████████████93%│            │
-  │        │  Glassmorphism ████████████95%│            │
-  │        │  Design Sys    ████████░░░░75%│            │
-  │        │  Prototyping   ██████████░░85%│            │
-  │        └──────────────────────────────┘             │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- #################################################################### -->
-<!--                             Project                                  -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ Project.Dev ⟩`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-**🥇 MSME Hackathon 6.0**
-Robotics & Automation
-RoboHive X · RetroSync AI
-`FactoryMorph AI`
+<h3 align="center">⚡ SYSTEM.init("priyan_a") ⚡</h3>
 
-</td>
-<td align="center" width="25%">
-
-**🚀 KONE Elevate 2026**
-AI Elevator Optimization
-Smart Predictive Maintenance
-`Competition Pitch`
-
-</td>
-<td align="center" width="25%">
-
-**⚡ SRM Easwari**
-20-Hour Hackathon Sprint
-Team Toppers
-`Built & Shipped Fast`
-
-</td>
-<td align="center" width="25%">
-
-**🎓 ABTalks**
-60-Day Claude AI Mastery
-AI Prompt Educator
-`Content Creator`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-**💰 FinFam**
-Production Android App
-Gemini API + Firebase
-`Team FinGuard`
+```js
+const priyanA = {
+  username: "priyan1436ei-lab",
+  class: "Full-Stack Developer & Gamer",
+  title: "AI Engineer in Training",
+  
+  stats: {
+    level: "Legendary",
+    xp: "∞",
+    guild: "Open Source Warriors",
+    questsCompleted: 100,
+  },
+  
+  skills: {
+    languages: ["Python", "JavaScript", "Java",
+                "TypeScript", "C++", "Rust"],
+    frontend:  ["React", "Next.js", "HTML5", "CSS3"],
+    backend:   ["Node.js", "FastAPI", "Express"],
+    ai_ml:     ["PyTorch", "TensorFlow", "Keras",
+                "Scikit-learn", "NumPy", "Pandas"],
+    devops:    ["Docker", "Kubernetes", "AWS",
+                "GCP", "Azure", "Git"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    gaming:    ["Unity", "Unreal Engine"],
+  },
+  
+  currentQuest: "Building autonomous AI agents",
+  loot: "Neural Networks & Clean Code",
+  motto: "Code. Create. Conquer. 🏆",
+};
+```
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-**🤖 AgriShield AI**
-AI for Agriculture
-Computer Vision
-`Social Impact`
+<h3 align="center">🎮 PLAYER STATS HUD 🎮</h3>
 
-</td>
-<td align="center" width="25%">
+<br>
 
-**🌐 CloudBites**
-Full Stack Platform
-3-Role Web App
-`React + Firebase`
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=priyan1436ei-lab&theme=matrix&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+</div>
 
-</td>
-<td align="center" width="25%">
+<br>
 
-**🎨 UI/UX Portfolio**
-FitTrack · GoCloud
-Urban Spice · OLMS
-`Figma Case Studies`
+<div align="center">
+
+```
+┌─────────────────────────────────────┐
+│  🏆 ACHIEVEMENT LOG                │
+├─────────────────────────────────────┤
+│  ✅ First Blood — First Commit     │
+│  ✅ Code Ninja — 100+ Commits      │
+│  ✅ AI Apprentice — ML Projects    │
+│  ✅ Open Source Hero — PRs Merged  │
+│  ✅ 60-Day Challenge — Completed   │
+│  🔒 Legendary Coder — In Progress │
+│  🔒 10K Stars — Locked            │
+│  🔒 World Domination — Loading... │
+└─────────────────────────────────────┘
+```
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- #################################################################### -->
-<!--                      CURRENT MISSION                                 -->
-<!-- #################################################################### -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    📊 GITHUB STATS DASHBOARD 📊                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### `⟨ CURRENT_MISSION.status ⟩`
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+&nbsp; COMBAT STATS — GITHUB ANALYTICS &nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
+
+<br>
+
+<!-- STATS ROW 1 -->
+<a href="https://github.com/priyan1436ei-lab">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyan1436ei-lab&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&border_color=00ff41&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff&ring_color=00ff41&include_all_commits=true&count_private=true&custom_title=⚔️%20PRIYAN%27S%20BATTLE%20STATS" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/priyan1436ei-lab">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyan1436ei-lab&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakLabel=00d4ff&sideLabels=bf00ff&currStreakNum=00ff41&sideNums=00d4ff&dates=555555" alt="GitHub Streak"/>
+</a>
+
+<br><br>
+
+<!-- STATS ROW 2 -->
+<a href="https://github.com/priyan1436ei-lab">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan1436ei-lab&layout=donut-vertical&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&langs_count=8" alt="Top Languages"/>
+</a>
+<a href="https://github.com/priyan1436ei-lab">
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyan1436ei-lab&bg_color=0d1117&color=00ff41&line=bf00ff&point=00d4ff&area=true&area_color=00ff4133&hide_border=true&custom_title=📈%20CONTRIBUTION%20FREQUENCY%20ANALYSIS" alt="Activity Graph"/>
+</a>
 
 </div>
 
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  PRIYAN'S ROADMAP ── 2024 → 2028                         ║
-  ╠══════════════════════════════════════════════════════════╣
-  ║                                                          ║
-  ║  2024  ██████████  Foundation                            ║
-  ║        └─ React · Firebase · Python · Figma              ║
-  ║                                                          ║
-  ║  2025  ████████░░  Building                              ║
-  ║        └─ Flutter · Gemini · AI Apps · Hackathons        ║
-  ║                                                          ║
-  ║  2026  ██████░░░░  Scaling       ◄ YOU ARE HERE          ║
-  ║        └─ MLOps · Cloud · Internship · Open Source       ║
-  ║                                                          ║
-  ║  2027  ████░░░░░░  Advancing                             ║
-  ║        └─ AI Agents · Production Systems · Leadership    ║
-  ║                                                          ║
-  ║  2028  ██░░░░░░░░  Launching                             ║
-  ║        └─ Startup · Research · Senior Engineer           ║
-  ║                                                          ║
-  ╚══════════════════════════════════════════════════════════╝
-```
+<br>
 
----
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- #################################################################### -->
-<!--                     WAKA TIME / TIME STATS                           -->
-<!-- #################################################################### -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🛡️ 3D CONTRIBUTION GRAPH 🛡️                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### `⟨ CODING_DNA.stats ⟩`
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+&nbsp; 3D HOLOGRAPHIC CONTRIBUTION MAP &nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
-<!--
-  ⚙️  SETUP: Connect your WakaTime account at wakatime.com
-  Then add this GitHub Action to auto-update weekly coding stats.
-  Repo: https://github.com/anmol098/waka-readme-stats
+<br>
+
+<a href="https://github.com/priyan1436ei-lab">
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=priyan1436ei-lab&theme=green" width="100%" alt="3D Contribution Graph"/>
+</a>
+
+<br>
+
+<!-- PROFILE DETAILS CARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyan1436ei-lab&theme=github_dark" width="90%" alt="Profile Details"/>
+
+<br>
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyan1436ei-lab&theme=github_dark" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyan1436ei-lab&theme=github_dark" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyan1436ei-lab&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
+</p>
+
+</div>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🛠️ TECH STACK ARSENAL 🛠️                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+&nbsp; TECH ARSENAL — WEAPONS OF CHOICE &nbsp;
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+</h2>
+
+<br>
+
+<!-- LANGUAGES -->
+<h3>⚔️ COMBAT LANGUAGES</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,rust,go,kotlin&theme=dark" alt="Languages"/></a>
+
+<br><br>
+
+<!-- FRONTEND -->
+<h3>🎨 FRONTEND MATRIX</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite,figma&theme=dark" alt="Frontend"/></a>
+
+<br><br>
+
+<!-- BACKEND -->
+<h3>⚙️ BACKEND ENGINE</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,graphql,prisma,nginx&theme=dark" alt="Backend"/></a>
+
+<br><br>
+
+<!-- AI / ML -->
+<h3>🧠 AI / ML NEURAL CORE</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML"/></a>
+<br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117"/>
+
+<br><br>
+
+<!-- DEVOPS & CLOUD -->
+<h3>☁️ CLOUD INFRASTRUCTURE</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,bash,git&theme=dark" alt="DevOps"/></a>
+
+<br><br>
+
+<!-- DATABASES -->
+<h3>🗄️ DATA VAULTS</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase,supabase&theme=dark" alt="Databases"/></a>
+
+<br><br>
+
+<!-- TOOLS & GAMING -->
+<h3>🎮 GAMING & TOOLS</h3>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=unity,unreal,blender,godot,github,vscode,neovim,obsidian&theme=dark" alt="Gaming & Tools"/></a>
+
+</div>
+
+<br>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🚀 PROJECT SHOWCASE — QUEST LOG 🚀               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<h2>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">
+&nbsp; QUEST LOG — FEATURED PROJECTS &nbsp;
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">
+</h2>
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 CodeForge AI</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/-CodeForge-AI-CodeForge-H" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=-CodeForge-AI-CodeForge-H&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="CodeForge AI"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117"/>
+</p>
+<p><em>🎯 Autonomous AI coding platform — transforms requirements into code with self-repair capabilities</em></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🧠 Neural Network from Scratch</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/neural-network--scratch" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=neural-network--scratch&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="Neural Network"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=0d1117"/>
+</p>
+<p><em>🎯 Pure implementation of neural networks without frameworks — understanding the math behind AI</em></p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🏋️ 60-Day Coding Challenge</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/-Day-1-60-ABTalksOnAI-60-Days-Coding-Challenge-" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=-Day-1-60-ABTalksOnAI-60-Days-Coding-Challenge-&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="60-Day Challenge"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DSA-00d4ff?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AI-bf00ff?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117"/>
+</p>
+<p><em>🎯 60-day grinding challenge — daily coding problems, AI experiments & skill leveling</em></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">📱 KinMaster APK</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/kinmaster-apk" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=kinmaster-apk&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="KinMaster APK"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white&labelColor=0d1117"/>
+</p>
+<p><em>🎯 Full-featured Android application with Java — mobile development showcase</em></p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📝 Notes AI Agent Dataset</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/Notes_AI_Agent_Dataset_v0.1" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=Notes_AI_Agent_Dataset_v0.1&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="Notes AI Agent"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Dataset-00d4ff?style=flat-square&logo=huggingface&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NLP-bf00ff?style=flat-square&logo=spacy&logoColor=white&labelColor=0d1117"/>
+</p>
+<p><em>🎯 Curated dataset for training AI note-taking agents — data engineering for LLMs</em></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🐛 Debug Dataset</h3>
+<div align="center">
+<a href="https://github.com/priyan1436ei-lab/debug_dataset" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyan1436ei-lab&repo=debug_dataset&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00d4ff&icon_color=bf00ff" width="100%" alt="Debug Dataset"/>
+</a>
+<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Debugging-ff0040?style=flat-square&logo=bugsnag&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ML-00ff41?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0d1117"/>
+</p>
+<p><em>🎯 Dataset of debugging scenarios for training AI code debuggers</em></p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🏆 CURRENT MISSIONS & METRICS 🏆                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<h2>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+&nbsp; ACTIVE MISSIONS & POWER METRICS &nbsp;
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+</h2>
+
+<br>
+
+<!-- MISSION BOARD -->
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║    🎯 ACTIVE MISSIONS                                               ║
+║    ├── 🟢 Building CodeForge AI — autonomous code generation        ║
+║    ├── 🟢 Neural Network architectures from scratch                 ║
+║    ├── 🟡 Mastering advanced deep learning & transformers           ║
+║    ├── 🟡 Contributing to open-source AI/ML projects                ║
+║    └── 🔴 Building a full-stack AI SaaS platform                    ║
+║                                                                     ║
+║    📊 POWER METRICS                                                 ║
+║    ├── 🧠 Problem Solving    ████████████████████░░  90%            ║
+║    ├── 🎨 Frontend Dev       ██████████████████░░░░  80%            ║
+║    ├── ⚙️  Backend Dev        █████████████████████░  95%            ║
+║    ├── 🤖 AI / ML            ████████████████████░░  90%            ║
+║    ├── ☁️  DevOps / Cloud     ███████████████░░░░░░░  70%            ║
+║    ├── 📱 Mobile Dev          ██████████████░░░░░░░░  65%            ║
+║    └── 🎮 Game Dev            ████████████░░░░░░░░░░  55%            ║
+║                                                                     ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🌐 CONNECT — NETWORK LINKS 🌐                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+&nbsp; CONNECT — JOIN THE NETWORK &nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+</h2>
+
+<br>
+
+<a href="https://github.com/priyan1436ei-lab" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-priyan1436ei--lab-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-Follow-bf00ff?style=for-the-badge&logo=x&logoColor=bf00ff&labelColor=0d1117" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="mailto:priyan@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-ff0040?style=for-the-badge&logo=gmail&logoColor=ff0040&labelColor=0d1117" alt="Email"/>
+</a>
+
+<br><br>
+
+<!-- PROFILE VIEWS & VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=priyan1436ei-lab&style=for-the-badge&color=00ff41&label=PROFILE+SCANS&labelColor=0d1117" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/priyan1436ei-lab?label=FOLLOWERS&style=for-the-badge&color=bf00ff&labelColor=0d1117&logo=github" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/priyan1436ei-lab?label=TOTAL+STARS&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github" alt="Stars"/>
+
+</div>
+
+<br>
+
+<!-- GLITCH DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🎬 FUTURISTIC ANIMATED FOOTER 🎬                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br>
+
+<!-- ANIMATED SPOTIFY / NOW PLAYING VIBE -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=BF00FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%8E%B5+NOW+PLAYING%3A+Lo-fi+Beats+%26+Compiling+Code...;%F0%9F%8E%AE+STATUS%3A+AFK+%7C+In+a+ranked+match..." alt="Now Playing" /></a>
+
+<br><br>
+
+<!-- CONTRIBUTION SNAKE (LIGHT/DARK) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<!-- NEON QUOTE -->
+```
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                                                             ║
+    ║   "The code you write today is the world you build          ║
+    ║    tomorrow. Ship fast. Break nothing. Level up."           ║
+    ║                                      — priyan A 🎮          ║
+    ║                                                             ║
+    ╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,25:00ff41,50:00d4ff,75:bf00ff,100:ff0040&section=footer&text=GAME%20OVER%20—%20THANKS%20FOR%20VISITING&fontColor=00ff41&fontSize=24&fontAlignY=75&animation=twinkling&stroke=00ff41&strokeWidth=1"/>
+
+<!-- LAST UPDATED BADGE -->
+<br>
+<img src="https://img.shields.io/badge/LAST%20UPDATED-OCTOBER%202026-00ff41?style=flat-square&labelColor=0d1117" alt="Last Updated"/>
+<img src="https://img.shields.io/badge/MADE%20WITH-❤️%20%26%20☕-ff0040?style=flat-square&labelColor=0d1117" alt="Made With Love"/>
+<img src="https://img.shields.io/badge/POWERED%20BY-CYBERPUNK%20ENERGY-bf00ff?style=flat-square&labelColor=0d1117" alt="Powered By"/>
+
+<br><br>
+
+<!-- ANIMATED BOTTOM WAVE -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+</div>
+
+<!-- 
+     ███████╗ ██████╗ ██████╗     ██████╗ ███████╗ █████╗ ██████╗ ██╗███╗   ██╗ ██████╗ 
+     ██╔════╝██╔═══██╗██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔══██╗██║████╗  ██║██╔════╝ 
+     █████╗  ██║   ██║██████╔╝    ██████╔╝█████╗  ███████║██║  ██║██║██╔██╗ ██║██║  ███╗
+     ██╔══╝  ██║   ██║██╔══██╗    ██╔══██╗██╔══╝  ██╔══██║██║  ██║██║██║╚██╗██║██║   ██║
+     ██║     ╚██████╔╝██║  ██║    ██║  ██║███████╗██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝
+     ╚═╝      ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+     
+     Thank you for scrolling this far, legend. 🏆
+     Star this repo if you vibed with the aesthetics!
+     
+     Built with 💚 by priyan A (@priyan1436ei-lab)
 -->
-
-[![Priyan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyan&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=00FFFF&text_color=8892B0&icon_color=A78BFA&layout=compact)](https://wakatime.com/@priyan)
-
-</div>
-
----
-
-<!-- #################################################################### -->
-<!--                      DEVELOPER QUOTE                                 -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ CORE_PHILOSOPHY ⟩`
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" />
-
-<br/><br/>
-
-> ## *`"Turning ideas into intelligent digital experiences."`*
->
-> *Every line of code is a step toward a smarter world.*
-> *Every design is a conversation with the future.*
-
-<br/>
-
-```
-◈  IDEATE  →  PROTOTYPE  →  BUILD  →  TEST  →  SHIP  →  ITERATE  ◈
-```
-
-</div>
-
----
-
-<!-- #################################################################### -->
-<!--                        CONNECT                                       -->
-<!-- #################################################################### -->
-
-<div align="center">
-
-### `⟨ CONNECT.network ⟩`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-03001C?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000C66)](https://github.com/priyan)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-03001C?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000C66)](https://linkedin.com/in/priyan)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-03001C?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=000C66)](mailto:priyan@email.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-03001C?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000C66)](https://priyan.dev)
-
-<br/>
-
-```
-  ▸  Open to Frontend / React / AI internship opportunities
-  ▸  Available for hackathon partnerships & project collabs
-  ▸  Let's build something extraordinary together 🚀
-```
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:000C66,100:03001C&height=140&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=00FFFF&fontAlignY=55&desc=Drop+a+⭐+if+you+like+my+work+—+it+fuels+the+next+build!&descSize=14&descColor=A78BFA&descAlignY=78&animation=twinkling" width="100%"/>
-
-<br/>
-
-![Made with](https://img.shields.io/badge/Made_with_❤️_by_Priyan-03001C?style=for-the-badge&labelColor=00FFFF&color=03001C)
-&nbsp;
-![B.Tech IT](https://img.shields.io/badge/B.Tech_IT_2024--2028-03001C?style=for-the-badge&labelColor=A78BFA&color=03001C)
-&nbsp;
-![AI Developer](https://img.shields.io/badge/AI+Developer_🤖-03001C?style=for-the-badge&labelColor=F59E0B&color=03001C)
-
-</div>
-
-<!-- #################################################################### -->
-<!--                    GITHUB ACTIONS SETUP GUIDE                        -->
-<!-- #################################################################### -->
-<!--
-  ⚙️ POST-SETUP CHECKLIST:
-  ─────────────────────────────────────────────────────────────────────
-  1. CREATE REPO named exactly: priyan/priyan (your-username/your-username)
-  2. REPLACE all "priyan" in URLs with your actual GitHub username
-  3. UPDATE LinkedIn, Email, Portfolio links
-
-  ── SNAKE ANIMATION SETUP ──
-  Create .github/workflows/snake.yml with:
-   ┌──────────────────────────────────────────────────────────┐
-  │ name: Generate Snake                                      │
-  │ on:                                                       │
-  │   schedule: [{cron: "0 0 * * *"}]                         │
-  │   workflow_dispatch:                                      │
-  │ jobs:                                                     │
-  │   generate:                                               │
-  │     runs-on: ubuntu-latest                                │
-  │     steps:                                                │
-  │       - uses: Platane/snk/svg-only@v3                     │
-  │         with:                                             │
-  │           github_user_token: ${{secrets.GITHUB_TOKEN}}    │
-  │           outputs: |                                      │
-  │             dist/github-snake.svg                         │
-  │             dist/github-snake-dark.svg?palette=github-dark│
-  │       - uses: crazy-max/ghaction-github-pages@v3          │
-  │         with:                                             │
-  │           target_branch: output                           │
-  │           build_dir: dist                                 │
-  │         env:                                              │
-  │           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}         │
-   └──────────────────────────────────────────────────────────┘
-
-  ── WAKATIME SETUP ──
-  Sign up at wakatime.com → install VS Code extension
-  Add WAKATIME_API_KEY to GitHub Secrets
-  Use: https://github.com/anmol098/waka-readme-stats
-
-  ── PROFILE VIEWS ──
-  Replace "priyan" in the komarev.com badge with your username
-  ─────────────────────────────────────────────────────────────────────
--->
-
-<!-- ✦ END OF PRIYAN'A MAX-LEVEL GITHUB README ✦ -->
